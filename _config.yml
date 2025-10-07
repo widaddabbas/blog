@@ -39,6 +39,9 @@ author:
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : person
+  linkedin  : widad-dabbas # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  instagram : widad.dabbas # "user_name" the last part of your profile url, e.g. https://www.instagram.com/user_name
+  github    : widaddabbas # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   email     : dabbas.widad@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -48,11 +51,7 @@ author:
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : widad-dabbas # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : widaddabbas # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
-  instagram : widad.dabbas # "user_name" the last part of your profile url, e.g. https://www.instagram.com/user_name
-  portfolio : # "user_name" the last part of your profile url, e.g. https://user_name.myportfolio.com
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
