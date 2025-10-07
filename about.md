@@ -30,7 +30,7 @@ key: page-about
 
 <br/>
 
-<a class="page-link" href="https://widaddabbas.github.io/about">Widad</a>'s *attempted* Loss Of Generality (<a class="page-link" href="https://widaddabbas.github.io/wlog">WLOG</a>) is all about curbing my fear of non-generality through the exploration of powerfully good specifics.
+<a class="page-link" href="https://widaddabbas.github.io/about">Widad</a>'s *attempted* Loss Of Generality is a blog about curbing my fear of non-generality through the exploration of powerfully good specifics.
 
 <br/>
 
