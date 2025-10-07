@@ -1,4 +1,11 @@
 header:
+
+  - title: Main Site
+    url: https://widaddabbas.github.io
+    
+  - title: Portfolio
+    url: https://widaddabbas.myportfolio.com
+    
   - titles:
       # @start locale config
       en      : &EN       Archive
