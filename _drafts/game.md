@@ -1,5 +1,5 @@
 ---
-title: restriction to a sandbox
+title: sandbox restriction
 tags: mathematics, play
 ---
 
