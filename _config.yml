@@ -131,7 +131,7 @@ comments:
     clientID    : "github-application-client-id" # GitHub Application Client ID
     clientSecret: "github-application-client-secret" # GitHub Application Client Secret
     repository  : "github-repo" # GitHub repo
-    owner       : "github-repo-owner # GitHub repo owner
+    owner       : "github-repo-owner" # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
       - "your-github-id"
