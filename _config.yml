@@ -134,7 +134,7 @@ comments:
     owner       : 'widaddabbas' # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
-      - 'widaddabbas' # 63348296
+      - '63348296' # 63348296
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
