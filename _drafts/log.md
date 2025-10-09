@@ -1,0 +1,41 @@
+---
+title: how to lose your generality
+tags: philosophy
+---
+
+In 2023 I completed one project in category theory and another in theoretical ecology accidentally making generality my home. The trouble with a home as comfy as generality is that I have forgotten how to leave;<!--more--> despite knowing there can be no whole without it's parts, I have forgotten how to intuit the value of specifics[^1] **_*problem state_**.
+
+Determined to provoke macroscopic change and interdisciplinary connections, it was reasonable that my motives trended towards the general for some time. The problem with this state however, is that engaging with specifics is a skill that often yields general good[^2]. Beyond this, an aversion to specifics has hindered my ability to take action, for how can one climb a mountain face without using it's holds, does one expect to fly? Thus, to extend my home into non-generality, I will begin with mapping a specific book *Cognitive Hypnotherapy* by a specific individual *Trevor Sylvester*.
+
+## Engineering Placebos 
+
+Sylvester's notion of cognitive hypnotherapy is strikingly reasonable, with the idea that “believing nothing to be true sets you free, because then everything needs to be only be useful” at it's forefront. This idea on beliefs is restricted to ones' illusion of the world or _reality tunnel_, for it is formed from a causal model deemed _The Algorithms Of The Mind_ (TAOTM) which take some composition of the remembered past, percieved present and imagined future as input. Sensory distortions output by TAOTM are called _trance phenomena_ and contradicted my expectations in that they do not describe deep altered states. Rather, one is in a trance when their attention is not strictly present **_*when I am proposed a non-general endeavour, my reality tunnel shifts from "home" to "not-home"_**
+
+Sylvester further asserts that our sense of self is an illusion -a view I find useful though not yet entirely convincing- as such, manipulating TAOTM should allow us to directly mould ourselves and our perception of reality... problem patterns
+
+
+
+Cascade model (page 236,7):
+1. The starting point of cognitive hypnotherapy asks what is the pattern that underlies the problem: “whats that about?”
+2. this question leads to uncovering the four quadrants of each clients unique problem pattern: context, structure, process, consequence
+3. As a result of the information uncovered a decision is made about which intervention is best suited to the client’s outcome: “how can i use that?”
+4. At some point in the technique the client is either unable to follow the step, or appears (usually unconsciously) to resist the technique: cant/wont do step of technique
+5. Return to the first question to see if its about cant or wont: “whats that about?”
+    1. Context issue (wont): on these occasions exploring the purpose for the block can be a good direction to move the therapy => can i use consequence / switch to structure / is there another aspect of context causing the problem / teach them to intterupt the process
+    2. Structure issue (cant): sometimes you might ask the client to do something that doesnt match their abilities - like asking them to adjust visual submodalities when they dont process visually, or get in touch with a feeling when they are dissociative people. => can i use consequence / switch to context / interrupt the process / switch to a different structure
+
+### Problem states
+there is a problem state and a solution state
+
+### Trance phenomena
+there are trance phenomena in which those states exist
+
+### Problem patterns
+these may inform the following problem patterns
+
+### Techniques
+put it all together to determine the approach of technique(s), noting that some may overlap between problem states and in general they are not exhaustive, but wordweaving is key
+
+
+[^1]: In an abuse of pure mathematics, absolute truth can become a similar home which forgets the value in what I shall term "emergent truth".
+[^2]: Apart from moral ambitions, an aversion to specifics can also get in the way of higher level academic and career aspirations.
