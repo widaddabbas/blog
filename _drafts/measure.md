@@ -3,7 +3,7 @@
 
 the technical machinery of measure theory applies automatically to probability. for probability is concerned with measuring the area of an event from a unit. the philosophical question then asks "in what contexts is it both possible and useful to try to assign numerical probabilities to uncertain events"
 
-Kolmogrov axioms: \br
+Kolmogrov axioms: /br
 - first, making a model requires you to prespecify all the relevant events that might happen and assign a probability to every combination of happen/not happen
 and you really can't do that except in very limited contexts: consider our geopolitical forecasting examples. \br
 - Second, comparing dice probabilities with geopolitical forecasting 
