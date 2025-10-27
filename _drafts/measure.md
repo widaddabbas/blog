@@ -11,3 +11,5 @@ we are more confident about our abilities to assess probabilities accurately in 
 and this "uncertainty about probabilities" is hard to fit into the axiomatic framework.
 - Third, a probability model is a description of how data is produced, not a prescription for when observed data can be regarded as "random"
 whereas our everyday perception of randomness is centered on actual observations.
+
+https://stat210a.berkeley.edu/fall-2024/reader/probability.html
