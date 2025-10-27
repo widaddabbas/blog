@@ -15,5 +15,5 @@ whereas our everyday perception of randomness is centered on actual observations
 https://stat210a.berkeley.edu/fall-2024/reader/probability.html
 
 
-Then a random variable is simply any function of omega, and we can think of **P** as a measure on OMEGA and **E**(xpectation) as an integral with respect to **P**. with omega an abstract outcome in an outcome space OMEGA
+Then a random variable is simply any function of omega, and we can think of **P** as a measure on OMEGA and **E**(xpectation) as an integral with respect to **P**. with omega an abstract outcome in an outcome space OMEGA..
 . 
