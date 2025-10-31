@@ -23,6 +23,8 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
+comments:
+  provider: gitalk
 key: page-about
 ---
 
