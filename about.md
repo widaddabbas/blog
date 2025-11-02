@@ -24,7 +24,7 @@ titles:
   fr-LU   : *FR
   # @end locale config
 comments:
-  provider: gitalk
+  provider: valine
 key: page-about
 ---
 
