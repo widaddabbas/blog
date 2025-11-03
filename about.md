@@ -23,8 +23,7 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-comments:
-  provider: valine
+comments: false
 key: page-about
 ---
 
