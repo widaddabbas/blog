@@ -145,23 +145,6 @@ comments:
     visitor     : false # false (default)
     meta        : '["nick", "mail"]' # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
     # path        : true
-## some edits from gpt to prevent comments on all pages
-# --- Defaults for comments ---
-defaults:
-  # All posts get comments by default
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      comment: true
-
-  # All pages (home, archive, about, etc.) have comments disabled
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      comment: false
-## end of the gpt
 
 ## => Pageview
 ##############################
