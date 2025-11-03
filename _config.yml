@@ -144,7 +144,7 @@ comments:
     placeholder : comment... # Prompt information
     visitor     : false # false (default)
     meta        : '["nick", "mail"]' # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
-    path        : true
+    # path        : true
 
 
 ## => Pageview
