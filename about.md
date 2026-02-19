@@ -27,7 +27,7 @@ titles:
 
 <br/>
 
-<a class="page-link" href="https://widaddabbas.github.io/about">Widad</a>'s *attempted* Loss Of Generality is a blog about curbing my fear of non-generality through the exploration of powerfully good specifics.
+<!--<a class="page-link" href="https://widaddabbas.github.io/about">Widad</a>'s--> Widad's *attempted* Loss Of Generality is a blog about curbing my fear of non-generality through the exploration of powerfully good specifics.
 
 <br/>
 
