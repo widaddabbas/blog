@@ -1,3 +1,8 @@
+--
+title: to measure theory or to bypass
+tags: maths
+---
+
 "Measure theory had been recently developed to resolve the technical conflict between the intuitive idea "every region in the plane has some area" and the axioms of set theory dealing with every subset of an uncountable set" - https://www.stat.berkeley.edu/~aldous/Real_World/kolmogorov.html
 
 
